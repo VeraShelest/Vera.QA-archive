@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+	<ID>BDT-1</ID>
+	<Summary>Dropdown menu has no "Гастрольно-фестивальная палитра" tab.</Summary>
+	<Description>
+		<Steps_for_reproduce>
+			<step1>Open web-site</step1>
+			<step2>Hover over the menu item "История" in the header of the site.</step2>
+			<step2>Check the list of tabs in the dropdown menu.</step2>
+		</Steps_for_reproduce>
+		<Expected_result>The dropdown menu displays all the tabs from the "История" section.</Expected_result>
+		<Actual_result>Dropdown menu has no "Гастрольно-фестивальная палитра" tab.</Actual_result>
+	</Description>	
+	<Severity>Minor</Severity>
+	<Priority>low</Priority>
+	<workaround>no</workaround>
+	<reproducibility>always</reproducibility>	
+</bug_report>		

@@ -1,0 +1,22 @@
+{
+	"bug report": 
+	{
+		"ID": "BDT-1",
+		"Summary": "The site section 'Концертная афиша' is empty",
+		"Description": 
+			{
+			"Steps for reproduce": 
+					{
+					"step 1": "Open web-site",
+					"step 2": "Hover over the menu item 'Симфонический оркестр' in the header of the site.",
+					"step 3": "Click on the 'Концертная афиша' tab"
+					},
+			"Expected result": "The 'Концертная афиша' tab opens and contains information about the concert schedule of the symphony orchestra",
+			"Actual result": "The site section 'Концертная афиша' opens, but the page is empty"
+			},
+		"Severity": "Major",
+		"Priority": "High",
+		"Workaround": "No",
+		"Reproducibility": "Always"
+	}
+}
