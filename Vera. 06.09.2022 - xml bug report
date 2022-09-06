@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bug_report>
-	<ID>BDT-1</ID>
+	<ID>BDT-2</ID>
 	<Summary>Dropdown menu has no "Гастрольно-фестивальная палитра" tab.</Summary>
 	<Description>
 		<Steps_for_reproduce>
